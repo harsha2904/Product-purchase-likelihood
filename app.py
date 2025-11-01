@@ -29,5 +29,6 @@ if st.button("Predict"):
 
     st.write("---")
     st.write("Model Accuracy on Test Data:")
-    st.write("Logistic Regression: ~85%") 
-    st.write("Decision Tree: ~80%")        
+    st.write("Logistic Regression: ~60%") 
+    st.write("Decision Tree: ~67%")
+
